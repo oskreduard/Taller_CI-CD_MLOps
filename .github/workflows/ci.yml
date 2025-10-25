@@ -27,7 +27,7 @@ jobs:
           ls -la
           ls -la src || true
           find . -maxdepth 3 -type f -name "*.py" -print
-          
+
       - name: Entrenar modelo
         run: |
           mkdir -p mlruns
@@ -42,3 +42,4 @@ jobs:
         with:
           name: mlruns
           path: mlruns
+
