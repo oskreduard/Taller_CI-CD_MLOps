@@ -20,7 +20,14 @@ jobs:
       - name: Instalar dependencias
         run: |
           pip install -r requirements.txt
-
+     
+      - name: Listar archivos (debug)
+        run: |
+          pwd
+          ls -la
+          ls -la src || true
+          find . -maxdepth 3 -type f -name "*.py" -print
+          
       - name: Entrenar modelo
         run: |
           mkdir -p mlruns
