@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/Oskreduard/Documents/U. EAN/Maestria en Ciencia de
+  Datos/ML-Ops y Analítica en la Nube/Taller 4/Taller_CI-CD_MLOps/mlflow-deploy/mlruns/460348671197924365/a973ac40307b4902bd51e615b85f9f8b/artifacts
+end_time: 1761365385905
+entry_point_name: ''
+experiment_id: '460348671197924365'
+lifecycle_stage: active
+run_id: a973ac40307b4902bd51e615b85f9f8b
+run_name: classy-shoat-262
+run_uuid: a973ac40307b4902bd51e615b85f9f8b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761365379076
+status: 3
+tags: []
+user_id: Oskreduard

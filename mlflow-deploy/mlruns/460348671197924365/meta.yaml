@@ -1,0 +1,7 @@
+artifact_location: file:///C:/Users/Oskreduard/Documents/U. EAN/Maestria en Ciencia
+  de Datos/ML-Ops y Analítica en la Nube/Taller 4/Taller_CI-CD_MLOps/mlflow-deploy/mlruns/460348671197924365
+creation_time: 1761364028637
+experiment_id: '460348671197924365'
+last_update_time: 1761364028637
+lifecycle_stage: active
+name: ci-cd-mlflow-local

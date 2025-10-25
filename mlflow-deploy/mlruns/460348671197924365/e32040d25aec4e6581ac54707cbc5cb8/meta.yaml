@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/Oskreduard/Documents/U. EAN/Maestria en Ciencia de
+  Datos/ML-Ops y Analítica en la Nube/Taller 4/Taller_CI-CD_MLOps/mlflow-deploy/mlruns/460348671197924365/e32040d25aec4e6581ac54707cbc5cb8/artifacts
+end_time: 1761364049273
+entry_point_name: ''
+experiment_id: '460348671197924365'
+lifecycle_stage: active
+run_id: e32040d25aec4e6581ac54707cbc5cb8
+run_name: bustling-robin-577
+run_uuid: e32040d25aec4e6581ac54707cbc5cb8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761364029798
+status: 3
+tags: []
+user_id: Oskreduard
